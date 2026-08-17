@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+<defs>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9FD9C2"/><stop offset="1" stop-color="#E9A8BE"/></linearGradient>
+</defs>
+<rect width="1200" height="600" fill="#FAF7F2"/>
+<rect x="22" y="22" width="1156" height="556" rx="30" fill="#FFFFFF" stroke="url(#edge)" stroke-width="2.5"/>
+<text x="74" y="86" font-family="DM Sans" font-weight="700" font-size="13" letter-spacing="3.2" fill="#1D6B51">THE COACH’S AI STARTER KIT</text>
+<text x="72" y="138" font-family="Plus Jakarta Sans" font-weight="800" font-size="44" fill="#1A1F1E">Less busywork. <tspan fill="#1D6B51">More presence.</tspan></text>
+<rect x="74" y="240" width="290" height="248" rx="18" fill="#F4F1EA" stroke="#E6E0D5" stroke-width="1.5"/>
+<text x="100" y="284" font-family="DM Sans" font-weight="700" font-size="20" fill="#1A1F1E">Raw notes</text>
+<rect x="100" y="318" width="216" height="7" rx="3.5" fill="#C9CCD2" opacity="0.85"/>
+<rect x="103" y="345" width="188" height="7" rx="3.5" fill="#C9CCD2" opacity="0.85"/>
+<rect x="100" y="372" width="230" height="7" rx="3.5" fill="#C9CCD2" opacity="0.85"/>
+<rect x="103" y="399" width="150" height="7" rx="3.5" fill="#C9CCD2" opacity="0.85"/>
+<rect x="100" y="426" width="200" height="7" rx="3.5" fill="#C9CCD2" opacity="0.85"/>
+<rect x="103" y="453" width="168" height="7" rx="3.5" fill="#C9CCD2" opacity="0.85"/>
+<line x1="100" y1="348.5" x2="295" y2="348.5" stroke="#B72F60" stroke-width="2.4" stroke-linecap="round" opacity="0.9"/>
+<line x1="97" y1="429.5" x2="304" y2="429.5" stroke="#B72F60" stroke-width="2.4" stroke-linecap="round" opacity="0.9"/>
+<line x1="386" y1="364" x2="436" y2="364" stroke="#2C4D4D" stroke-width="4" stroke-linecap="round"/>
+<path d="M 432 356 L 444 364 L 432 372" fill="none" stroke="#2C4D4D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="460" y="336" width="292" height="56" rx="28" fill="#F8DDE6" stroke="#E9A8BE" stroke-width="1.6"/>
+<circle cx="486" cy="364" r="5" fill="#B72F60"/>
+<text x="504" y="370" font-family="DM Sans" font-weight="700" font-size="19" fill="#B72F60">between-session-synth</text>
+<path d="M 758 364 C 758.5 364, 758.5 364, 753 364" fill="none" stroke="#B72F60" stroke-width="3.4" stroke-linecap="round"/>
+<path d="M 748 357 L 760 364 L 748 371" fill="none" stroke="#B72F60" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="774" y="319" width="352" height="90" rx="16" fill="#F8DDE6" stroke="#E9A8BE" stroke-width="1.6"/>
+<rect x="774" y="334" width="5" height="60" rx="2.5" fill="#B72F60"/>
+<text x="798" y="361" font-family="DM Sans" font-weight="700" font-size="20" fill="#B72F60">Record + follow-up</text>
+<text x="798" y="387" font-family="DM Sans" font-weight="500" font-size="15.5" fill="#4A5250">summary + client message</text>
+<text x="73" y="556" font-family="Plus Jakarta Sans" font-weight="800" font-size="17" fill="#1A1F1E" letter-spacing="0.5">ORIN</text>
+<text x="1126" y="556" text-anchor="end" font-family="DM Sans" font-weight="500" font-size="15" fill="#3F6B6B">orinlearning.com</text>
+</svg>
